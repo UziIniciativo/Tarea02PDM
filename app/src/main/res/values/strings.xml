@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Tarea02</string>
+    <string name="app_name">NoticiasApp</string>
+    <string name="select_interests">Selecciona tus intereses</string>
+    <string name="sports">Deportes</string>
+    <string name="music">Música</string>
+    <string name="politics">Política</string>
+    <string name="submit">Enviar</string>
 </resources>
