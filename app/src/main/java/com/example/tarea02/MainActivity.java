@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         // Formulario de selección de intereses
-        setContentView(R.layout.activity_main);
+        // setContentView(R.layout.activity_main);
 
         // Pantalla de noticias
-        // setContentView(R.layout.news_activity);
+        setContentView(R.layout.news_activity);
     }
 }
