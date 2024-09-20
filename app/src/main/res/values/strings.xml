@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">NoticiasApp</string>
-    <string name="select_interests">Selecciona tus intereses</string>
+    <string name="select_interests">Datos personales</string>
+    <string name="full_name_label">Nombre Completo</string>
+    <string name="full_name_hint">Ingresa tu nombre completo</string>
+    <string name="email_label">Correo Electrónico</string>
+    <string name="email_hint">Ingresa tu correo electrónico</string>
+    <string name="phone_label">Teléfono</string>
+    <string name="phone_hint">Ingresa tu número de teléfono</string>
+    <string name="interests_label">Selecciona tus intereses</string>
     <string name="sports">Deportes</string>
     <string name="music">Música</string>
     <string name="politics">Política</string>
