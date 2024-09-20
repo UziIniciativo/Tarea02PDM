@@ -14,4 +14,9 @@
     <string name="submit">Enviar</string>
     <string name="news_title">Título de la Noticia</string>
     <string name="news_content">Contenido de la noticia</string>
+    <string name="titulo_noticia">Título de la Noticia</string>
+    <string name="fecha_noticia">Publicado el: 19 Septiembre 2024</string>
+    <string name="contenido_noticia">Este es el contenido de la noticia.</string>
+    <string name="compartir">Compartir</string>
+    <string name="guardar">Guardar</string>
 </resources>
