@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Opción 1 -->
+    <item
+        android:id="@+id/action_cancel_order"
+        android:icon="@drawable/save"
+        android:title="@string/guardados"
+        app:showAsAction="ifRoom" />
+
+    <!-- Opción 2 -->
+    <item
+        android:id="@+id/action_resend_order"
+        android:icon="@drawable/refresh"
+        android:title="@string/recargar"
+        app:showAsAction="ifRoom" />
+
+    <!-- Opción 3 -->
+    <item
+        android:id="@+id/action_modify_order"
+        android:icon="@drawable/write"
+        android:title="@string/escribir"
+        app:showAsAction="ifRoom" />
+</menu>
