@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dinero"
+            android:icon="@drawable/dinero"
+            android:title="@string/dinero" />
+
+        <item
+            android:id="@+id/nav_deportes"
+            android:icon="@drawable/deportes"
+            android:title="@string/deportes" />
+
+        <item
+            android:id="@+id/nav_entretenimiento"
+            android:icon="@drawable/entretenimiento"
+            android:title="@string/entretenimiento" />
+
+        <item
+            android:id="@+id/nav_salud"
+            android:icon="@drawable/salud"
+            android:title="@string/salud" />
+    </group>
+</menu>

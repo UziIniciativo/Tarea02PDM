@@ -22,4 +22,10 @@
     <string name="guardados">Noticias guardadas</string>
     <string name="recargar">Recargar noticias</string>
     <string name="escribir">Escribir noticia</string>
+    <string name="dinero">Dinero</string>
+    <string name="deportes">Deportes</string>
+    <string name="entretenimiento">Entretenimiento</string>
+    <string name="salud">Salud</string>
+    <string name="abrir">Abrir menú</string>
+    <string name="cerrar">Cerrar menú</string>
 </resources>
