@@ -28,4 +28,7 @@
     <string name="salud">Salud</string>
     <string name="abrir">Abrir menú</string>
     <string name="cerrar">Cerrar menú</string>
+    <string name="opciones">Más opciones</string>
+    <string name="nosotros">Nosotros</string>
+    <string name="version">Version</string>
 </resources>

@@ -4,10 +4,21 @@
 
     <!-- Opción 1 -->
     <item
-        android:id="@+id/action_cancel_order"
-        android:icon="@drawable/save"
-        android:title="@string/guardados"
-        app:showAsAction="ifRoom" />
+        android:id="@+id/action_more"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="@string/opciones"
+        app:showAsAction="always">
+
+        <!-- Submenú con dos opciones -->
+        <menu>
+            <item
+                android:id="@+id/action_us"
+                android:title="@string/nosotros" />
+            <item
+                android:id="@+id/action_version"
+                android:title="@string/version" />
+        </menu>
+    </item>
 
     <!-- Opción 2 -->
     <item

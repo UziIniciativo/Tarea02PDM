@@ -80,9 +80,13 @@ public class MainActivity extends AppCompatActivity
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
-        if (id == R.id.action_cancel_order) {
-            Log.d("MenuAction", "Cancelar pedido");
-            Toast.makeText(this, "Noticias Guardadas", Toast.LENGTH_SHORT).show();
+        if (id == R.id.action_us) {
+            Log.d("MenuAction", "Sobre Nosotros");
+            Toast.makeText(this, "Sobre Nosotros", Toast.LENGTH_SHORT).show();
+            return true;
+        } else if (id == R.id.action_version){
+            Log.d("MenuAction", "Version");
+            Toast.makeText(this, "Version 3.0", Toast.LENGTH_SHORT).show();
             return true;
         } else if (id == R.id.action_resend_order) {
             Log.d("MenuAction", "Reenviar pedido");
